@@ -1,0 +1,27 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "Scraper to collect job searches - Research UTN",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "~0.16.0",
+    "express": "~4.4.1",
+    "fs": "~0.0.1",
+    "request": "~2.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "reseach",
+    "utn",
+    "scraping"
+  ],
+  "author": "Pablo Patarca",
+  "license": "BSD-2-Clause"
+}
